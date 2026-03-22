@@ -1,0 +1,12 @@
+{
+  "hospitals": [
+    {
+      "name": "示例市人民医院",
+      "official_url": "https://www.example-hospital.gov.cn/",
+      "province": "某省",
+      "city": "某市",
+      "adapter_id": "generic",
+      "notes": "请替换为真实官网"
+    }
+  ]
+}
